@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby minimal starter
+  Path Prefix | Example
 </h1>
 
 ## 🚀 Quick start
